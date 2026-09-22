@@ -1,0 +1,260 @@
+
+# --- 扫描启动: 2026-09-15 17:47:34 (策略: cvcvc) ---
+weruv.com
+wumew.com
+vupek.com
+muwoy.com
+giwob.com
+
+# --- 扫描启动: 2026-09-15 17:48:41 (策略: suffix) ---
+sjzgo.com
+lfmup.com
+wqnto.com
+htkme.com
+lqlto.com
+
+# --- 扫描启动: 2026-09-15 17:49:50 (策略: pinyin) ---
+faiwu.com
+
+# --- 扫描启动: 2026-09-15 17:54:02 (策略: cvcvc) ---
+noyub.com
+wosuw.com
+vuwem.com
+toyih.com
+sosiy.com
+giyok.com
+hebih.com
+mawub.com
+gohef.com
+pehow.com
+hubew.com
+ciyiy.com
+yubuc.com
+fudoy.com
+vihoy.com
+
+# --- 扫描启动: 2026-09-15 17:55:09 (策略: pattern) ---
+fjjjf.com
+ppyyp.com
+jqqjq.com
+wssww.com
+yyvvy.com
+
+# --- 扫描启动: 2026-09-15 17:56:50 (策略: cvcvc) ---
+niwuy.com
+nihah.com
+mumeb.com
+hutav.com
+moyug.com
+niguv.com
+fufib.com
+sipeh.com
+ruyoc.com
+dipew.com
+cuhaf.com
+ceyud.com
+gevoh.com
+tohiw.com
+pefuf.com
+nogef.com
+tiwuy.com
+ruyug.com
+mavuy.com
+wurag.com
+hokeg.com
+kivuv.com
+yocuh.com
+gupem.com
+gacum.com
+
+# --- 扫描启动: 2026-09-15 17:58:08 (策略: suffix) ---
+dfkin.com
+qvoon.com
+nkbly.com
+vfyto.com
+lkbto.com
+cznto.com
+afqme.com
+jheup.com
+cteio.com
+fbuis.com
+
+# --- 扫描启动: 2026-09-16 09:09:35 (策略: tech) ---
+vohus.com
+yewox.com
+wihox.com
+yefus.com
+mupox.com
+gucax.com
+feyix.com
+wusor.com
+
+# --- 扫描启动: 2026-09-16 09:10:24 (策略: ai) ---
+aiogj.com
+aijrb.com
+aiuhl.com
+aiynq.com
+aijmy.com
+aiifv.com
+aijlk.com
+aipxc.com
+
+# --- 扫描启动: 2026-09-16 09:10:53 (策略: cvcvc) ---
+foyip.com
+layiw.com
+piveh.com
+yokuc.com
+yifig.com
+yedul.com
+yehef.com
+yavur.com
+
+# --- 扫描启动: 2026-09-16 09:15:12 (策略: startup) ---
+upgip.com
+exyoc.com
+cogud.com
+exsaw.com
+cowoh.com
+gocuw.com
+exnuf.com
+upboh.com
+
+# --- 扫描启动: 2026-09-16 09:15:50 (策略: vcvcv) ---
+ifodu.com
+owuto.com
+uceya.com
+urufe.com
+upusu.com
+ufeku.com
+idife.com
+icahi.com
+
+# --- 扫描启动: 2026-09-16 09:16:17 (策略: pattern) ---
+mrrmr.com
+qxxqq.com
+kffkf.com
+fvvff.com
+wxxwx.com
+pxxpp.com
+
+# --- 扫描启动: 2026-09-17 16:55:38 (策略: blend) ---
+yerfa.com
+bumcu.com
+lelfu.com
+vusre.com
+nosgu.com
+tumvu.com
+wesvu.com
+rerfo.com
+
+# --- 扫描启动: 2026-09-17 16:56:07 (策略: friendly) ---
+mywuc.com
+beciw.com
+okfiv.com
+wehob.com
+higep.com
+wegok.com
+okvav.com
+myyis.com
+
+# --- 扫描启动: 2026-09-17 16:56:36 (策略: cvcvc) ---
+seyod.com
+sesuh.com
+tefug.com
+pofay.com
+kuhir.com
+mupeb.com
+dohud.com
+vofef.com
+
+# --- 扫描启动: 2026-09-17 16:59:49 (策略: ify) ---
+uuify.com
+cwify.com
+jwify.com
+jcify.com
+pnify.com
+cpify.com
+hhify.com
+jzify.com
+
+# --- 扫描启动: 2026-09-17 17:00:13 (策略: latin) ---
+copua.com
+firua.com
+dobua.com
+ropua.com
+feyua.com
+buhea.com
+tuyea.com
+ciwua.com
+
+# --- 扫描启动: 2026-09-17 17:00:43 (策略: cvcvc) ---
+gapuh.com
+wolil.com
+yuvew.com
+tekug.com
+cahuv.com
+wufiw.com
+waguf.com
+fuwop.com
+
+# --- 扫描启动: 2026-09-17 17:06:48 (策略: developer) ---
+vjdev.com
+kqops.com
+yrops.com
+qdops.com
+nkops.com
+gyops.com
+vjdev.com
+yfops.com
+
+# --- 扫描启动: 2026-09-17 17:07:46 (策略: palindrome) ---
+fbhbf.com
+zsfsz.com
+ukzku.com
+lzezl.com
+frerf.com
+exvxe.com
+
+# --- 扫描启动: 2026-09-17 17:08:10 (策略: cvcvc) ---
+pimif.com
+gudib.com
+yitiv.com
+fibiw.com
+vuluh.com
+vucup.com
+takiw.com
+rihod.com
+
+# --- 扫描启动: 2026-09-22 09:35:25 (策略: blend) ---
+dusfe.com
+nosru.com
+wirsu.com
+rarku.com
+wusdi.com
+
+# --- 扫描启动: 2026-09-22 09:35:54 (策略: startup) ---
+gowuh.com
+cobuw.com
+refuy.com
+infuk.com
+exgir.com
+
+# --- 扫描启动: 2026-09-22 09:41:22 (策略: vcvcv) ---
+iyira.com
+upewa.com
+eguwe.com
+eluyu.com
+efove.com
+efipu.com
+ohevu.com
+uvafi.com
+
+# --- 扫描启动: 2026-09-22 09:41:53 (策略: tech) ---
+fihox.com
+wuvus.com
+yecax.com
+nuwor.com
+yiwox.com
+kuyix.com
+ruwos.com
+viyis.com
