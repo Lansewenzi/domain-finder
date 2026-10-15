@@ -167,7 +167,7 @@ uvafi.com
 针对 **.xyz 注册局“1.111B 计划”（6-9 位纯数字永久享约 $0.99 / 年超低注册与续费成本）** 的专项高价值数字米挖掘利器：[digit6_xyz_checker.py](digit6_xyz_checker.py)。
 
 ### ⭐ 核心特性
-1. **CentralNic 官方权威 RDAP 复核**：直连 https://rdap.centralnic.com/xyz/domain/{domain}，以 HTTP 404 精确判定 100% 未注册。
+1. **CentralNic 官方权威 RDAP 复核**：直连 `https://rdap.centralnic.com/xyz/domain/{domain}`，以 HTTP 404 精确判定 100% 未注册。
 2. **专属数字米市品相策略**：
    - `pattern`: 结构规律型 (AABBCC, AAABBB, ABABAB, ABCABC, AABBAA, ABBAAB)
    - `palindrome`: 回文数 (ABCCBA，如 123321, 819918)
