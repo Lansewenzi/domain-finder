@@ -316,3 +316,38 @@ kqdev.com
 qvdev.com
 ujdev.com
 uqdev.com
+
+# --- 扫描启动: 2026-09-22 10:51:13 (策略: blend) ---
+yamve.com
+rirtu.com
+pusgu.com
+vasfu.com
+mesgu.com
+
+# --- 扫描启动: 2026-09-22 10:51:41 (策略: vcvcv) ---
+eyive.com
+ocowi.com
+ecaku.com
+ayupu.com
+epusu.com
+
+# --- 扫描启动: 2026-09-22 10:52:07 (策略: latin) ---
+bewua.com
+keheo.com
+huhea.com
+fufea.com
+nuheo.com
+
+# --- 扫描启动: 2026-09-22 10:52:33 (策略: startup) ---
+exwak.com
+upkih.com
+upgus.com
+copih.com
+exkir.com
+
+# --- 扫描启动: 2026-09-22 10:53:00 (策略: on_cvc) ---
+onbaw.com
+onbeh.com
+onbeb.com
+onbeq.com
+onbum.com
