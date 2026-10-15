@@ -164,23 +164,23 @@ uvafi.com
 
 # 🔢 6-Digit .xyz Domain Finder (6位纯数字 .xyz 域名挖掘工具)
 
-针对 **.xyz 注册局“1.111B 计划”（6-9 位纯数字永久享约 .99 / 年超低注册与续费成本）** 的专项高价值数字米挖掘利器：[digit6_xyz_checker.py](digit6_xyz_checker.py)。
+针对 **.xyz 注册局“1.111B 计划”（6-9 位纯数字永久享约 $0.99 / 年超低注册与续费成本）** 的专项高价值数字米挖掘利器：[digit6_xyz_checker.py](digit6_xyz_checker.py)。
 
 ### ⭐ 核心特性
 1. **CentralNic 官方权威 RDAP 复核**：直连 https://rdap.centralnic.com/xyz/domain/{domain}，以 HTTP 404 精确判定 100% 未注册。
 2. **专属数字米市品相策略**：
-   - pattern: 结构规律型 (AABBCC, AAABBB, ABABAB, ABCABC, AABBAA, ABBAAB)
-   - palindrome: 回文数 (ABCCBA，如 123321, 819918)
-   - lucky: 吉祥数字组合（纯 1/6/8/9 或尾 888, 666, 999, 168, 518）
-   - straight: 顺子/倒顺子 (123456, 654321 等)
-   - date: 年份与月份纪元 (202401 ~ 203012)
-   - - `no4`: 严格排除数字 4（米市“无4”硬通货）
-   - - `no04`: 严格排除数字 0 和 4（米市“无04”最高流通性）
-   - - `range`: 连续区间定向扫描（配合 --range START END）
+   - `pattern`: 结构规律型 (AABBCC, AAABBB, ABABAB, ABCABC, AABBAA, ABBAAB)
+   - `palindrome`: 回文数 (ABCCBA，如 123321, 819918)
+   - `lucky`: 吉祥数字组合（纯 1/6/8/9 或尾 888, 666, 999, 168, 518）
+   - `straight`: 顺子/倒顺子 (123456, 654321 等)
+   - `date`: 年份与月份纪元 (202401 ~ 203012)
+   - `no4`: 严格排除数字 4（米市“无4”硬通货）
+   - `no04`: 严格排除数字 0 和 4（米市“无04”最高流通性）
+   - `range`: 连续区间定向扫描（配合 --range START END）
 3. **数字品相智能打分**：自动标注【无04极品】、【回文数】、【尾888】、【纯吉利数】等标签。
 
 ### 🚀 常用挖掘命令
-`ash
+```bash
 # 1. 挖掘纯吉利数字 / 尾数吉利 6D.xyz
 python digit6_xyz_checker.py --strategy lucky --target 10
 
@@ -195,7 +195,6 @@ python digit6_xyz_checker.py --prefix 88 --no-4 --target 10
 
 # 5. 指定数字区间扫描 (如 880000 ~ 889999)
 python digit6_xyz_checker.py --range 880000 889999 --target 20
-`
+```
 
-结果将自动实时追加写入 vailable_6d_xyz.txt。
-
+结果将自动实时追加写入 `available_6d_xyz.txt`。
